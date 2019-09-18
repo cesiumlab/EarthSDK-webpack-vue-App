@@ -5,6 +5,8 @@
 基于EarthSDK、webpack和vue创建的极简App，可以调试和打包。
 Vue通过npm引入。
 
+![预览](./tools/images/preview.jpg)
+
 ## 使用方法
 
 0. 安装
